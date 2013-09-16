@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Existingclasses' target in the 'Existingclasses' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
